@@ -1,6 +1,6 @@
 {
   "name": "@pretzel-ui/spinner",
-  "version": "0.0.1-preview.2",
+  "version": "0.1.0",
   "type": "module",
   "description": "",
   "exports": {
@@ -21,12 +21,8 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "@eqpoqpe/classname-utils": "^0.1.1"
-  },
   "peerDependencies": {
-    "@headlessui/react": "^1.7.18",
-    "react": "^18.2.0"
+    "react": "^18.0.0 || ^19.0.0"
   },
   "devDependencies": {
     "@pretzel-ui/tsup": "workspace:0.0.2",
