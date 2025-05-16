@@ -23,7 +23,7 @@ import {
   DialogBaseFailCallbackReason,
   DialogBaseSuccessCallbackResult,
   StatusType,
-} from "./types";
+} from "./utils";
 
 export type AlertSuccessCallbackResult = {
   confirm: boolean;

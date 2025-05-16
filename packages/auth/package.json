@@ -1,0 +1,22 @@
+{
+  "name": "@pretzel-ui/auth",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0"
+  },
+  "devDependencies": {
+    "@pretzel-ui/tsup": "workspace:0.0.2",
+    "@types/react": "^18.2.64",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}

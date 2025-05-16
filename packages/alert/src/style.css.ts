@@ -1,5 +1,5 @@
 import { ComplexStyleRule, style, styleVariants } from "@vanilla-extract/css";
-import { StatusType } from "./types";
+import { StatusType } from "./utils";
 
 const alertPanelBorderStyle = style({
   width: "100%",
